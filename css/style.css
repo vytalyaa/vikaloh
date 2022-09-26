@@ -18,7 +18,7 @@ header {
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(180deg, rgba(20, 2, 98, 0.31) 0%, #2600ff 85.62%), url('../img/img.jpg') no-repeat center top / cover;
+    background: linear-gradient(180deg, rgba(20, 2, 98, 0.31) 0%, #2600ff 85.62%), url('../img.jpg') no-repeat center top / cover;
 
 }
 
