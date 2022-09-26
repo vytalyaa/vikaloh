@@ -1,0 +1,44 @@
+body {
+
+    margin: 0px;
+
+}
+
+.container {
+
+        max-width: 1170px;
+        margin: auto;
+
+}
+
+header {
+
+    background-color: blue;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgba(20, 2, 98, 0.31) 0%, #2600ff 85.62%), url('../img.jpg') no-repeat center top / cover;
+
+}
+
+.nav {
+
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.loh {
+
+    color: pink;
+    font: bold 30px Arial;
+
+}
+
+
+
+
+
